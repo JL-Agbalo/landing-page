@@ -1,0 +1,6 @@
+- **components**: Reusable UI building blocks (e.g., buttons, forms).
+- **sections**: Larger page sections composed of multiple components.
+- **elements**: Smaller, atomic UI pieces (e.g., icons, labels).
+- **shared**: Code or assets shared across different parts of the app.
+- **store**: State management logic (e.g., Redux, Zustand).
+- **utils**: Utility functions and helpers used throughout the project.
